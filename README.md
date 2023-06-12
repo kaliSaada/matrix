@@ -73,7 +73,7 @@ git push origin feature/nome-da-funcionalidade
 
 Para mais informações sobre o projeto, entre em contato:
 
-Seu Nome - [seu-email@example.com](mailto:seu-email@example.com)
+Khalil Saada - [kalisaadadev@gmail.com](mail:kalisaadadev@gmail.com)
 
 ---
 
